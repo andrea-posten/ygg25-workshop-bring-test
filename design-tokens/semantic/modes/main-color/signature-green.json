@@ -1,0 +1,70 @@
+{
+  "color": {
+    "main": {
+      "background-default": {
+        "$type": "color",
+        "$value": "{color.signature-green.background-default}"
+      },
+      "background-tinted": {
+        "$type": "color",
+        "$value": "{color.signature-green.background-tinted}"
+      },
+      "surface-default": {
+        "$type": "color",
+        "$value": "{color.signature-green.surface-default}"
+      },
+      "surface-tinted": {
+        "$type": "color",
+        "$value": "{color.signature-green.surface-tinted}"
+      },
+      "surface-hover": {
+        "$type": "color",
+        "$value": "{color.signature-green.surface-hover}"
+      },
+      "surface-active": {
+        "$type": "color",
+        "$value": "{color.signature-green.surface-active}"
+      },
+      "border-subtle": {
+        "$type": "color",
+        "$value": "{color.signature-green.border-subtle}"
+      },
+      "border-default": {
+        "$type": "color",
+        "$value": "{color.signature-green.border-default}"
+      },
+      "border-strong": {
+        "$type": "color",
+        "$value": "{color.signature-green.border-strong}"
+      },
+      "text-subtle": {
+        "$type": "color",
+        "$value": "{color.signature-green.text-subtle}"
+      },
+      "text-default": {
+        "$type": "color",
+        "$value": "{color.signature-green.text-default}"
+      },
+      "base-default": {
+        "$type": "color",
+        "$value": "{color.signature-green.base-default}"
+      },
+      "base-hover": {
+        "$type": "color",
+        "$value": "{color.signature-green.base-hover}"
+      },
+      "base-active": {
+        "$type": "color",
+        "$value": "{color.signature-green.base-active}"
+      },
+      "base-contrast-subtle": {
+        "$type": "color",
+        "$value": "{color.signature-green.base-contrast-subtle}"
+      },
+      "base-contrast-default": {
+        "$type": "color",
+        "$value": "{color.signature-green.base-contrast-default}"
+      }
+    }
+  }
+}

@@ -1,0 +1,584 @@
+{
+  "color": {
+    "signature-green": {
+      "1": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.signature-green.16}"
+      }
+    },
+    "light-green": {
+      "1": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.light-green.16}"
+      }
+    },
+    "dark-green": {
+      "1": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.dark-green.16}"
+      }
+    },
+    "lighter-green": {
+      "1": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.lighter-green.16}"
+      }
+    },
+    "darker-green": {
+      "1": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.darker-green.16}"
+      }
+    },
+    "neutral": {
+      "1": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.neutral.16}"
+      }
+    },
+    "grey": {
+      "1": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.grey.16}"
+      }
+    },
+    "black": {
+      "1": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{ygg25-workshop-bring-test.black.16}"
+      }
+    }
+  },
+  "font-family": {
+    "$type": "fontFamilies",
+    "$value": "{ygg25-workshop-bring-test.font-family}"
+  },
+  "font-weight": {
+    "medium": {
+      "$type": "fontWeights",
+      "$value": "{ygg25-workshop-bring-test.font-weight.medium}"
+    },
+    "semibold": {
+      "$type": "fontWeights",
+      "$value": "{ygg25-workshop-bring-test.font-weight.semibold}"
+    },
+    "regular": {
+      "$type": "fontWeights",
+      "$value": "{ygg25-workshop-bring-test.font-weight.regular}"
+    }
+  },
+  "border-radius": {
+    "1": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*0.5,{border-radius.scale})"
+    },
+    "2": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base},{border-radius.scale}*2)"
+    },
+    "3": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*2,{border-radius.scale}*5)"
+    },
+    "4": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*3,{border-radius.scale}*7)"
+    },
+    "5": {
+      "$type": "dimension",
+      "$value": "{border-radius.base}"
+    },
+    "6": {
+      "$type": "dimension",
+      "$value": "9999"
+    },
+    "base": {
+      "$type": "dimension",
+      "$value": "8"
+    },
+    "scale": {
+      "$type": "dimension",
+      "$value": "4"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tokenSetOrder": [
+    "primitives/globals",
+    "primitives/modes/size/small",
+    "primitives/modes/size/medium",
+    "primitives/modes/size/large",
+    "primitives/modes/size/global",
+    "primitives/modes/typography/size/small",
+    "primitives/modes/typography/size/medium",
+    "primitives/modes/typography/size/large",
+    "primitives/modes/typography/primary/ygg25-workshop-bring-test",
+    "primitives/modes/typography/secondary/ygg25-workshop-bring-test",
+    "primitives/modes/color-scheme/dark/global",
+    "primitives/modes/color-scheme/dark/ygg25-workshop-bring-test",
+    "primitives/modes/color-scheme/light/global",
+    "primitives/modes/color-scheme/light/ygg25-workshop-bring-test",
+    "themes/ygg25-workshop-bring-test",
+    "semantic/color",
+    "semantic/modes/main-color/signature-green",
+    "semantic/modes/main-color/light-green",
+    "semantic/modes/main-color/dark-green",
+    "semantic/modes/main-color/lighter-green",
+    "semantic/modes/main-color/darker-green",
+    "semantic/modes/support-color/grey",
+    "semantic/modes/support-color/black",
+    "semantic/style"
+  ]
+}
