@@ -1,0 +1,25 @@
+/**
+ * These files are generated from design tokens defind using Token Studio
+ */
+
+@layer ds.theme.color {
+[data-color="lighter-green"], [data-color-scheme][data-color="lighter-green"] {
+  --ds-color-background-default: var(--ds-color-lighter-green-background-default);
+  --ds-color-background-tinted: var(--ds-color-lighter-green-background-tinted);
+  --ds-color-surface-default: var(--ds-color-lighter-green-surface-default);
+  --ds-color-surface-tinted: var(--ds-color-lighter-green-surface-tinted);
+  --ds-color-surface-hover: var(--ds-color-lighter-green-surface-hover);
+  --ds-color-surface-active: var(--ds-color-lighter-green-surface-active);
+  --ds-color-border-subtle: var(--ds-color-lighter-green-border-subtle);
+  --ds-color-border-default: var(--ds-color-lighter-green-border-default);
+  --ds-color-border-strong: var(--ds-color-lighter-green-border-strong);
+  --ds-color-text-subtle: var(--ds-color-lighter-green-text-subtle);
+  --ds-color-text-default: var(--ds-color-lighter-green-text-default);
+  --ds-color-base-default: var(--ds-color-lighter-green-base-default);
+  --ds-color-base-hover: var(--ds-color-lighter-green-base-hover);
+  --ds-color-base-active: var(--ds-color-lighter-green-base-active);
+  --ds-color-base-contrast-subtle: var(--ds-color-lighter-green-base-contrast-subtle);
+  --ds-color-base-contrast-default: var(--ds-color-lighter-green-base-contrast-default);
+}
+
+}
